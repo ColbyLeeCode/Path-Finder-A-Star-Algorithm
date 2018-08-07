@@ -1,0 +1,29 @@
+
+#start-button{
+    background-color:lightgreen;
+}
+
+#end-button{
+    background-color: lightcoral;
+}
+
+#solid-button{
+    background-color: black;
+    color: white;
+}
+
+canvas{
+    background-color: white;
+
+}
+
+.algo-title{
+    font-size: 3vw;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#foot{
+    font-size: 1vw;
+    text-align: right;
+}
